@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lenz47
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning to code in python
 
 <!---
